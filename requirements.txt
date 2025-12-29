@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-genai>=0.7.0
+python-dotenv
+pydantic
+streamlit
+websockets
